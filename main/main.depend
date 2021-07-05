@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1624188077 source:f:\programycpp\poprawnystatek\main\main.cpp
+	<string>
+	<statek.h>
+	<trasa.h>
+	<rejs.h>
+	<iostream>
+	<cstdlib>
+
+1624185235 f:\programycpp\poprawnystatek\main\include\statek.h
+	<string>
+	<cstdlib>
+	<trasa.h>
+	<rejs.h>
+
+1624286118 source:f:\programycpp\poprawnystatek\main\src\statek.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"statek.h"
+
+1624284272 source:f:\programycpp\poprawnystatek\main\src\trasa.cpp
+	"trasa.h"
+	<iostream>
+	<string>
+
+1624187004 f:\programycpp\poprawnystatek\main\include\trasa.h
+
+1624188896 f:\programycpp\poprawnystatek\main\include\rejs.h
+	<trasa.h>
+
+1624286131 source:f:\programycpp\poprawnystatek\main\src\rejs.cpp
+	"rejs.h"
+	<ctime>
+	<iostream>
+	<bits/stdc++.h>
+
